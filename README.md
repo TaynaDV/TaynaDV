@@ -76,12 +76,11 @@ Também tenho conhecimento em ferramentas como pacote Office, Canva e PowerPoint
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=TaynaDV&show_icons=true&theme=tokyonight&locale=pt-br"
     />
-</p>
 
-  <img
+   <img
     align="left"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynaDV&layout=compact&theme=tokyonight&locale=pt-br"
-  />
-
+ />
+</p>
 
